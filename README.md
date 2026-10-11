@@ -9,7 +9,7 @@ Data cleaning, analysis and visualisation projects using Python, pandas, NumPy, 
 
 **Question:** Which US startups became unicorns, how quickly, and in which industries?
 
-**Dataset:** Global unicorn company dataset ([source: add link]), focusing on the 562 US companies.
+**Dataset:** Global unicorn company dataset, focusing on the 562 US companies.
 
 **What I did:**
 - Cleaned the data and standardised monetary values and dates
@@ -32,7 +32,7 @@ Data cleaning, analysis and visualisation projects using Python, pandas, NumPy, 
 
 **Question:** Which products and months drive gross income?
 
-**Dataset:** 1,000 retail transactions covering January to March ([source: add link]).
+**Dataset:** 1,000 retail transactions covering January to March.
 
 **What I did:**
 - Cleaned, validated and aggregated the transactions
